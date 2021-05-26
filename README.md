@@ -19,10 +19,11 @@ OutCsvELAN.pyは，ログファイルを入力として動作する（manual.pdf
 ELAN https://archive.mpi.nl/tla/elan  
 Pythonの処理系
 
+## ファイル構成（一部）
 sample/  
 　動作検証用のログファイル（.txt）  
 　手順3で生成されるCSVファイル（.csv）  
-　ELANにより出力されるEAFファイル（.eaf） 
+　手順4でELANから出力可能なEAFファイル（.eaf） 
 
 manual.pdf  
 　Hazumi1902収録時に使用したマニュアルを一部改訂して作成
