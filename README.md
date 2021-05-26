@@ -1,6 +1,6 @@
 # EANgeneration
 
-MMDAgentWozGUIが出力したログを，EAF (ELAN Annotation Format) に変換するプログラム．
+MMDAgentWozGUIが出力したログを，EAF (ELAN Annotation Format) に変換する手順やプログラム．
 この中で利用するスクリプトも置いている．
 
 ## 手順（より詳しくはmanual.pdf参照）
