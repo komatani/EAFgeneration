@@ -16,8 +16,8 @@ generateCsv.batは，その中で OutCsvELAN.py を呼んでいる．
 OutCsvELAN.pyは，ログファイルを入力として動作する（manual.pdf参照）．
 
 ## 必要な外部プログラム
-ELAN https://archive.mpi.nl/tla/elan  
-Pythonの処理系
+ELAN（ELAN5.4で動作確認済み）	https://archive.mpi.nl/tla/elan  
+Pythonの処理系（Python3.7で動作確認済み）
 
 ## ファイル構成（一部）
 sample/  
